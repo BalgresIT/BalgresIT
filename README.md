@@ -9,4 +9,4 @@ Somos el equipo de desarrollo tecnológico de Balgres C.A., enfocados en solucio
 
 ## 📫 Contacto
 🌐 [balgres.com](https://balgres.com)  
-📧 contacto@balgres.com
+📧 it@balgres.com
